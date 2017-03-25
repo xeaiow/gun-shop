@@ -3,6 +3,8 @@
 ### 資料庫：mysql
 ### 編寫語言：jsp(java)
 
-1. 修改 config.jsp 資料庫及路徑
+1. 修改 config.php 資料庫及路徑
 2. 導入資料庫
-3. http://localhost:8080/目錄
+3. http://localhost/目錄
+
+

@@ -1,0 +1,58 @@
+body{
+	background-image: url(img/bg2.png);
+}
+
+#container{
+	margin-top: 10px;
+}
+
+#login_container{
+	margin: 0 auto;
+}
+
+#login_form{
+	display:inline;
+}
+
+#register_container{
+	margin: 20px auto;
+}
+
+#register_form{
+	display: inline;
+}
+
+/* index.jsp */
+#username_repty{
+	margin: 20px auto;
+	text-align: center;
+}
+
+#item_menu, #index-banner, #container{
+	margin-top: 70px;
+}
+
+#register_container{
+	margin-top: 30px;
+}
+
+.big-font{
+	font-size: 40px;
+}
+
+.item_title{
+	margin-bottom: 20px;
+}
+
+.hr-padding{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+#order-hi{
+	margin-top: 40px;
+}
+
+#group-container{
+	margin: 60px auto;
+}

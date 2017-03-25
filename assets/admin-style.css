@@ -1,0 +1,15 @@
+#container{
+    margin-top: 10px;
+}
+
+.statistics{
+    margin-top: 20px;
+}
+
+body{
+    background-image: url(img/bg4.png);
+}
+
+#admin_login_form{
+    margin: 0 auto;
+}
